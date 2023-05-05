@@ -1,0 +1,10 @@
+Integrantes del grupo:
+
+- Julieta Paola Storino : 44195121 
+
+- Santiago Troiano : 44762999
+
+- Santiago Leon Torres Banner : 44347297
+
+- La animacion muestra un cohete subiendo y un cielo azul oscureciendose, una vez el cohete en el centro,
+las estrellas y planetas comienzan a bajar dando la sensacion de que el cohete avanza hacia arriba. 

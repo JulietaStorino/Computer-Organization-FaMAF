@@ -1,0 +1,10 @@
+Integrantes del grupo:
+
+- Julieta Paola Storino : 44195121 
+
+- Santiago Troiano : 44762999
+
+- Santiago Leon Torres Banner : 44347297
+
+- El codigo genera una imagen de un cohete en el centro de la pantalla, un fondo plano azul oscuro
+con pixeles que se asemejan a estrellas lejanas, estrellas mas grandes o cercanas y tres planetas. 
