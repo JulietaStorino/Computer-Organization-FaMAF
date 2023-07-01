@@ -8,7 +8,7 @@
 * The _start.s_ file contains the initialization of the FrameBuffer, at the end it calls _app.s_ **(DO NOT EDIT)**
 * The sample code paints the entire screen a single color
 
-##Structure
+## Structure
 
 * **[app.s](app.s)** This file contains an application. All hardware is already pre-initialized.
 * **[start.s](start.s)** This file performs hardware initialization
